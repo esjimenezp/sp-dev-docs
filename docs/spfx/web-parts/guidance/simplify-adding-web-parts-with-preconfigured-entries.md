@@ -143,7 +143,7 @@ To see how you can use preconfigured entries when building web parts, you will b
   - **Shows items from the selected list** as your web part description
   - **React** as the starting point to build the web part
 
-  ![SharePoint Framework Yeoman generator with the default choices](../../../images/preconfiguredentries-yeoman.png)
+  ![SharePoint Framework Yeoman generator with the default choices](../../../images/NewVersionofSPFx.PNG)
 
 5. After the scaffolding completes, lock down the version of the project dependencies by running the following command:
 
